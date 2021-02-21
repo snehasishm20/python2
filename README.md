@@ -11,11 +11,17 @@
 # pass
 
 
+
+
+
 # 1
 # Questions:
 # 1. You are given a time in 12-hour format. Convert it to 24-hour format.
 # Input : 08:55:48PM
 # Output : 20:55:48
+
+
+
 
 
 # 2. John and Sean went to a shop to buy chocolates. John doesn’t buy a chocolate that
@@ -28,6 +34,9 @@
 # 1 5 7 12 16 23 (Price of N chocolates)
 # Output :
 # 2 3
+
+
+
 
 
 # 3. Alice and Bob decided to have a competition. They wrote N no.of tests. For whoever
@@ -46,6 +55,9 @@
 # Bob won the competition.
 
 
+
+
+
 # 4. You are given no.of words followed by the list of words. For each word, print the word,
 # it’s length and number of its occurrences.
 # Input
@@ -61,6 +73,9 @@
 # Existing 8 1
 
 
+
+
+
 # 5. You are given a list of N books and their details (no.of pages, price and no.of chapters).
 # Display the list of attributes and ask the user to select one attribute. You are required to
 # 3
@@ -72,6 +87,10 @@
 # 148 55 10 (Book 2)
 # 207 199 31 (Book 3)
 # 2 (Attribute)
+
+
+
+
 
 
 # 6. You are given a sentence containing alphabets, numbers, symbols and spaces. Your
